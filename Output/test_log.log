@@ -1,0 +1,4 @@
+2023-06-12 12:53:31 [INFO] Applicable driver not found; attempting to install with Selenium Manager (Beta) (selenium_manager.py:73)
+2023-06-12 12:53:33 [INFO] This is an informational log message (test_swag_labs_log.py:24)
+2023-06-12 12:53:33 [ERROR] An error occurred (test_swag_labs_log.py:25)
+2023-06-12 12:53:34 [INFO] Applicable driver not found; attempting to install with Selenium Manager (Beta) (selenium_manager.py:73)
